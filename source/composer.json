@@ -5,6 +5,7 @@
         "php": "^7.2.5",
         "ext-ctype": "*",
         "ext-iconv": "*",
+        "lexik/jwt-authentication-bundle": "^2.6",
         "php-solution/swagger-ui-gen": "^4.3",
         "symfony/amqp-pack": "^1.0",
         "symfony/console": "5.0.*",
